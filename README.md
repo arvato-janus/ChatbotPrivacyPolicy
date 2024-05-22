@@ -113,6 +113,7 @@ If you would like to exercise any of the following rights please contact us in a
 * The business or commercial purpose for collecting or selling (if applicable) Personal Information about you;
 * The categories of Personal Information about you that we sold and, for each, the categories of third parties to whom we sold such Personal Information (if applicable); and
 * The categories of Personal Information about you that we otherwise shared or disclosed, and, for each, the categories of third parties with whom we shared or to whom we disclosed such Personal Information (if applicable).
+  
 (2) Right to Request Deletion. You also have a right to request that we delete Personal Information under certain circumstances, subject to a number of exceptions (“Request to Delete”).
 (3) Right to Correct Inaccurate Personal Information we collected from you (“Request to Correct”).
 (4) Right to Opt-Out. You have a right to opt-out from future “sales” or “sharing” of Personal Information about you.
