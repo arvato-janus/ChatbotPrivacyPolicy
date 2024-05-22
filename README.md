@@ -62,34 +62,36 @@ By using the Services, you may elect to disclose Personal Information. We disclo
 •	Other Parties in Litigation. We share information in the context of litigation discovery and in response to subpoenas and court orders.
 The CCPA requires us to describe the categories of Personal Information we sell to or share with third parties and how to opt out of future sales or sharing. The CCPA defines Personal Information to include online identifiers, including IP addresses, cookies IDs, and mobile IDs. The law also defines a “sale” or “share” broadly to include simply making data available to third parties in some cases. In the preceding twelve (12) months, we disclosed for our operational business purposes or sold the following categories of Personal Information to the following categories of service providers and third parties:
 
-Categories of Personal Information	Disclosed to Which Categories of Third Parties for Operational Business Purposes	Purpose for Disclosure
-Identifiers	Service Providers, , Affiliates, Ad Networks, Social Networks, , Business Partners, , Marketing Partners and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Customer Records Information	Service Providers, Affiliates and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Protected Class Information	Service Providers, Affiliates and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Transaction Information	Service Providers, Affiliates, and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Online Use Information	Service Providers, Ad Networks, Social Networks, Marketing Partners and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Geolocation Data	Service Providers, and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Audio/Video Data	Service Providers, and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Employment Information	Service Providers, and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Inferences	Service Providers, Marketing Partners and Legal Authorities and Other Parties in Litigation.	Commercial or Business Purpose
-Security, Safety, and Protecting Rights
+| Categories of Personal | Information	Disclosed to Which Categories of Third Parties for Operational Business | Purposes	Purpose for Disclosure |
+|:---------------------- |:----------------------------------------------------------------------------------- |:------------------------------- |
+| Identifiers	| Service Providers, , Affiliates, Ad Networks, Social Networks, , Business Partners, , Marketing Partners and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Customer Records Information	| Service Providers, Affiliates and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Protected Class Information	| Service Providers, Affiliates and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Transaction Information	| Service Providers, Affiliates, and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Online Use Information	| Service Providers, Ad Networks, Social Networks, Marketing Partners and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Geolocation Data	| Service Providers, and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Audio/Video Data	| Service Providers, and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Employment Information	| Service Providers, and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+| Inferences	| Service Providers, Marketing Partners and Legal Authorities and Other Parties in Litigation.	| Commercial or Business Purpose |
+
+## Security, Safety, and Protecting Rights
 We will disclose Personal Information if we believe it is necessary to protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone, operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks, or protect the rights or property of ourselves or others, including enforcing our agreements, terms, and policies.
 We may also disclose your Personal Information for the other uses described above (e.g., to comply with applicable laws, respond to valid legal process, including from law enforcement or other government agency, and in connection with corporate transactions, including a merger, acquisition, dissolution, bankruptcy, or a transfer, divestiture or sale of all or a portion of our business or assets or other business transaction).
-Cookies, Mobile IDs and Similar Technologies
+## Cookies, Mobile IDs and Similar Technologies
 We use cookies, web beacons, mobile analytics and advertising IDs, and similar technologies to operate our websites and online services and to help collect data, including usage data, identifiers and device information.
-What are cookies and similar technologies?
+### What are cookies and similar technologies?
 Cookies are small text files placed by a website and stored by your browser on your device.  A cookie can later be read when your browser connects to a web server in the same domain that placed the cookie. The text in a cookie contains a string of numbers and letters that may uniquely identify your device and can contain other information as well. This allows the web server to recognize your browser over time, each time it connects to that web server. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other traffic data.
 Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, compile statistics about usage of the Services and response rates, and identify similar audiences to whom we can market our Services.
-How do we and our partners use cookies and similar technologies?
+### How do we and our partners use cookies and similar technologies?
 We, and our analytics and advertising partners, use these technologies in our websites, apps, and online services to collect Personal Information (such as the pages you visit, the links you click on and similar usage information, as well as identifiers and device information) when you use our Services, including Personal information about your online activities over time and across different websites or online services.
 This information is used to store your preferences and settings, enable you to sign-in, analyze how our websites and apps perform, track your interaction with the site or app, develop inferences, deliver and tailor interest-based advertising, combat fraud, and fulfill other legitimate purposes. Additionally, the information is used for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience.  We also gather statistical information about use of the Services to continually improve their design and functionality, understand how they are used, and assist us with resolving questions regarding them.  Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services.  We may also use cookies or other technologies in online advertising to track responses to our ads.  If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website (including using the options described below in the section titled “What Controls are Available”).  You may also wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services.
 We and/or our analytics and advertising partners also share the information we collect or infer with other companies for these purposes.
-Analytics
+### Analytics
 We use analytics providers including but not limited to Google Analytics, Lytics and Adobe Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  We also use Localytics to track analytics on our mobile apps. These analytics services may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/, and exercise the opt-out provided by Google by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout. To opt out of Adobe Analytics, you can implement the opt-out cookies at https://scode.randomhouse.com/optout.html.
-Physical Location
+### Physical Location
 We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals.  We may use your device’s physical location to provide you with personalized location-based services and content.
 We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns.  In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
-What controls are available?
+### What controls are available?
 •	Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:
 o	United States: NAI (http://optout.networkadvertising.org) and DAA (http://optout.aboutads.info/)
 o	Canada: Digital Advertising Alliance of Canada (https://youradchoices.ca/)
@@ -100,10 +102,10 @@ o	Europe: European Digital Advertising Alliance (http://www.youronlinechoices.co
 •	Email web beacons. Most email clients have settings which allow you to prevent the automatic downloading of images — including web beacons — which prevents the automatic connection to the web servers that host those images.
 •	Do Not Track.  Some browsers have incorporated “Do Not Track” (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not a common understanding of how to interpret the DNT signal our websites do not currently respond to browser DNT signals. Instead, you can use the range of other tools to control data collection and use, including the cookie controls and advertising controls described above.
 •	Global Privacy Control. Global Privacy Control (GPC) is a browser setting that notifies websites of a user’s privacy preferences — such as not to share or sell Personal Information without their consent — by sending a signal to each website a user visits. When we detect such a signal, we will make reasonable efforts to respect your choices indicated by a GPC setting or similar control that is recognized by regulation or otherwise widely acknowledged as a valid opt-out preference signal.
-Notice and Choice 
+## Notice and Choice 
 We provide you with notice about the Personal Information we collect, how it will be used, and with whom we disclose Personal Information, through this Policy.
  We will get consent from you for the collection, use, and disclosure of Personal Information where such consent is required by applicable law. Failure to provide necessary Personal Information may disqualify you from using our Services.
-Your Privacy Rights 
+### Your Privacy Rights 
 If you would like to exercise any of the following rights please contact us in accordance with the “Contacting Us” section below.
 (1) Right to Know.  You have a right to request that we disclose to you the Personal Information we have collected about you (“Request to Know”). You also have a right to request additional information about our collection, use, disclosure, sale, or sharing of such Personal Information.  Note that we have provided much of this information in this Privacy Policy:
 •	The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information;
@@ -118,22 +120,22 @@ If you would like to exercise any of the following rights please contact us in a
 (6) Right to Designate an Authorized Agent. You may designate, in writing or through a power of attorney, an authorized agent to make requests on your behalf to exercise your rights under the CCPA. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us (as further described below in the section titled “Responding to Individual Rights Requests”).
 (7) Right to Non-Discrimination. You have the right to be free from unlawful discrimination for exercising your rights under the CCPA.
 (8) Right to Notice of Privacy Practices. You have a right to receive notice of our practices at or before collection of Personal Information.
-Retention of Personal Information
+## Retention of Personal Information
 We retain Personal Information for as long as needed or permitted in accordance with the purpose(s) for which it was obtained and consistent with applicable law.  The criteria used to determine our retention periods include:
 •	The length of time we have an ongoing relationship with you and provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
 •	Whether we are subject to a legal obligation (for example, certain laws that require us to keep records of your transactions for a certain period of time before we can delete them); or
 •	Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
-Security
+## Security
 We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
-Third Party Services
+## Third Party Services
 This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any website or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
 In addition, we are not responsible for the information collection, use, disclosure, or security policies or practices of other organizations, such as LinkedIn, Facebook, Google, or any other social media platform provider.
-Use of Services by Minors and Childrens
+## Use of Services by Minors and Childrens
 Arvato does not target its websites to Minors nor Childrens
-Jurisdiction and Cross-Border Transfer
+## Jurisdiction and Cross-Border Transfer
 These Services are published in the United States. We attempt to protect the Personal Information of all users of our Services and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to  Arvato`s services, but our family of Services are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to Arvato.
 If you are located outside the United States, you should be aware that your Personal Information may be transferred to and processed in the United States, the laws of which may have different levels of privacy protection from your country. By using our Services, you thereby consent to the general use of your information as provided in this Privacy Policy and to the transfer of that information to, and processing and storage of that information in, the United States. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access your Personal Information.
-Responding to Individual Rights Requests
+## Responding to Individual Rights Requests
 We will verify and respond to requests from individuals to exercise their privacy rights consistent with applicable laws, taking into account the type and sensitivity of the Personal Information subject to the request.  If you maintain a password-protected account with us, we may verify your identity through our existing authentication practices for your account and require you to re-authenticate yourself before disclosing, correcting or deleting your Personal Information.  Alternatively, we may send our response to your request to the contact point in our records that is associated with the Personal Information that is requested.  If you make a Request to Delete, we may ask you to confirm your request before we delete your Personal Information.
 If you are the authorized agent of a consumer, making a Request to Know (or access), Correct, Port, or a Delete on behalf of the consumer, we will ask you for:
 1.	Proof of your registration with the relevant Secretary of State to conduct business in the relevant State.
@@ -145,9 +147,9 @@ If an authorized agent has not provided us with a power of attorney from the con
 If you are the authorized agent of a consumer, making a Request to Opt-Out on behalf of the consumer, we may ask you for:
 1.	Proof of your registration with the relevant Secretary of State to conduct business in the relevant State.
 2.	Proof that the consumer has authorized you to make a Request to Opt-Out on the consumer’s behalf. This must be a permission signed by the consumer. “Signed” means that the permission has either been physically signed or provided electronically in accordance with the Uniform Electronic Transactions Act, Civil Code 1633.7 et seq.
-Updates to This Privacy Policy
+## Updates to This Privacy Policy
 The “Last Updated” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.
-Contacting Us
+## Contacting Us
 Arvato USA LLC, located at 51 Sawyer Road, Suite 620, 02-453 Waltham, MA is the company responsible for collection, use, and disclosure of your Personal Information under this Privacy Policy.
 If you have any questions about this Privacy Policy, please contact us as follows:
 By email: Privacy-NA@arvato-scs.com
