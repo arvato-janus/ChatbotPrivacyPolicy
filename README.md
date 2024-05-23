@@ -40,6 +40,7 @@ When you use our Services, we collect some information automatically. For exampl
 * Third party business customers, clients, and partners, when they share the information with us (e.g., sales data).
 ## How We Use Your Personal Information
 We and our providers use Personal Information we collect for the purposes described in this Privacy Policy or otherwise disclosed to you. For example, we use Personal Information for the following purposes:
+
 | Purposes of Use	| Categories of Personal Information |
 |:--------------- |:---------------------------------- |
 | Product and service delivery. To provide the Service’s functionality such as arranging access to your registered account, and deliver our services, including troubleshooting, improving, and personalizing those services. | Contact information, demographic data, commercial and payment information, content and files, identifiers and device information, geolocation data, usage data, and inferences. Sensitive Information: government ID, account access information, and sensitive demographic data |
